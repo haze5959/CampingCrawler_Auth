@@ -1,12 +1,1 @@
-{
-  "type": "service_account",
-  "project_id": "good-place-camp",
-  "private_key_id": "1c5ba3ed88c7343b8e25bbb01f95091b1e02d2db",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDAzE7C5Ql5eAUx\nZz8ymO/SO8U0++ftoFO6E5Xrf31tf1Bn8i65ZjzK9tB4OnXCcqAXS5yymTJhRFwA\nEaSloZhMJaO6AG9B0kUVYXtgcza5h4h3HMJQ9BCpQJ8vTkVKWN1oWSTxuhwkUZcS\nABC+rwbU4eX3HVCB/UjcWKQ4ngFKTfORrb0JC7ZCw0hLOFf+6UWZiAZv7UE5AIQX\nfaGDV0R6yizRzpLNJ6G6BZ9MxGGUOuyzHW6ZJEe+4PgHS3d4eMLkTGbVdchAQJT2\n7m+iZb1vnFyKZFapPx1jlz4yHlTImsigb1g1Hz3VS3EtCQ/g/9o1djOSKHD4YCC6\nALO+ZvNfAgMBAAECggEADWQjdFYEOnOjqLLLKPCGd8u+/tcgXNjt99a0aw8H3zsg\nkpe3txjq0A4knLUyyLa9d+DAmYcagLcGzNps3TREJ8XVgW3WTHQWaE3FDAX0nx5S\n1DMjLAxHu/nJFLgTB/70IfNPJZsPqVYhcBahEx2FE/Q8zNU0alL1ZJijj2sqG8b/\nQXowpphpn4PNhtHT75hVAGOpY+jwYw/emaKmwEVT3XjmkgoQ/dwgphAAi+mvhReH\nXyEdxKghtfFKRuT34LLHl6k4DAxak1WrxDsjn9HDAqe6W6OpJcWUbRvZ+qXMYtkx\n9BO2sRquE2cSvxxhWvGuRHWqTK2YjW779bOjfh/FgQKBgQD3ad+yWD5UzDND2101\n1mmilEADrZtplAttQ2KyOg0V+26ZnvX+bplZemJ9fepFDIj/dCP5kL8DqkPsFP96\naO/Xv6dIeTCpanhW5on+HjBMOyrSBrcgxWeLgppsauPdYnI/xcuHV5b1CSZ/+hwX\nOVtcyRa5DZspCWHL6bGEy8yXpwKBgQDHfTTzs3Ei7e8dfAo4H7XRUi3Q18jT0e8l\nl0v0EivODw/DLILtAZYDvSBJLhubBiyAcVZQQ+butJ0IyWWz2zIRssWHV/kppocO\nRDGciqePjOwVzDlQWrDA9+rfz1bdfiPD8iqiQOLDSAfNTt6MQ5df1W5lPXi9o+Jb\nv69lvOE9iQKBgQCkxmdMAMcqdIDj/XG7jFv4AiIMERBDJWzizRErP8w9SqHjP+H3\nHLOWyxJTH4vphqqq7y+SY1tD1p672VQ4szChEKwZcVT+T8FrpshabMKf0nv3Oq+1\n7KLEYCv2bs3pQEp0vIeLUMNh2EFC1FDnCrUVO3udrTkcAHqYcsBef9h3WwKBgFvO\nupzhW1L474/BMy7LITD5Qg6YEFuzhPzm2VS1PCWz9swa4xJSJYkI9B/ZsWix+a8O\n+esspM38nzyY+04/tZZBkPiNuyS49/TP24kwopbFAy2w9DuP0UKtlhF0aYS79ZfL\nDmXnuLSopLaO8orY3ISFRC4hkTytfJI+8GjA+WQJAoGAIJwRv6Bgsi9cZoUTxATa\n0CJU7Kwd0jD3YVlUs191nFqN2ATFMJPSSqzW1uxcuQUjgoxR59oZjgchx0FLTBBw\nVg7DC2UR/KRk+dYFFH8gObv1VYAnAEDz9gy1ClTbMdcoyasJy9vhciq14n4oBdYx\nipI8mc+q4UlCvSY9c61Efyw=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-yjl0r@good-place-camp.iam.gserviceaccount.com",
-  "client_id": "110304091971304144517",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yjl0r%40good-place-camp.iam.gserviceaccount.com"
-}
+// 비밀
