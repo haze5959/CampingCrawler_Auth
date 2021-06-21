@@ -22,7 +22,7 @@ def get_user(token: str):
         # print("Error: ID Token is invalid.")
         return {'result': False, 'msg': "ID Token is invalid"}
 
-    uid = decoded_token['uid']
+    uid: str = decoded_token['uid']
 
     try:
         data = auth.get_user(uid)._data
@@ -47,14 +47,13 @@ def delete_user(token: str):
         # print("Error: ID Token is invalid.")
         return {'result': False, 'msg': "ID Token is invalid"}
 
-    uid = decoded_token['uid']
-
     try:
-        auth.delete_user(uid)
+        uid: str = decoded_token['uid']
     except:
         # print("Error: Auth fail.")
         return {'result': False, 'msg': "Auth fail"}
 
+    auth.delete_user(uid)
     # print('Successfully deleted user')
 
     return {'result': True, }
