@@ -56,7 +56,7 @@ def delete_user(token: str):
     auth.delete_user(uid)
     # print('Successfully deleted user')
 
-    return {'result': True, }
+    return {'result': True, 'msg': ''}
 
 
 if __name__ == "__main__":
