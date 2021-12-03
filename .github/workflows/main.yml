@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+    branches: [ develop ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: executing remote ssh commands
+      uses: appleboy/ssh-action@master
+      with:
+        host: ${{ secrets.HOST }}
+        username: ${{ secrets.USERNAME }}
+        key: ${{ secrets.SSH_DEV_PRIVATE_KEY }}
+        port: ${{ secrets.PORT }}
+        script: |
+          cd Desktop/CampingCrawler_docker-compose/
+          docker-compose restart camp_auth
